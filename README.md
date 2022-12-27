@@ -1,1 +1,1 @@
-# scientific_figure_captioning_dataset
+# SciCap+: A Knowledge Augmented Dataset to Study the Challenges of Scientific Figure Captioning
